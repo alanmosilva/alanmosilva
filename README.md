@@ -1,15 +1,15 @@
 # Olá, eu sou o Alan 👋
  
-### Senior Cloud & Platform Engineer
+### Senior Cloud Engineer
  
-Profissional de Cloud e Platform Engineering com 18 anos de experiência projetando, automatizando e operando infraestrutura enterprise — da governança de nuvem à observabilidade, com ownership técnico de ponta a ponta.
+Engenheiro de Cloud, DevOps e SRE com 18 anos de experiência projetando, automatizando e operando ambientes corporativos em AWS, Kubernetes e infraestrutura híbrida.
  
 ---
  
 ### 🛠️ O que eu faço
  
 - ☁️ **Governança de nuvem** — landing zone multi-conta com AWS Control Tower e IAM Identity Center
-- ⛵ **Kubernetes** — clusters K3s on-premise com GitOps via ArgoCD
+- ⛵ **Kubernetes** — clusters EKS/K3s com GitOps via ArgoCD
 - 🧱 **Infraestrutura como Código** — Terraform com backend e lock de state remoto
 - 🔄 **CI/CD** — pipelines com Jenkins e GitHub Actions
 - 📊 **Observabilidade** — Grafana, Zabbix e Graylog (métricas, monitoramento e logs centralizados)
@@ -41,6 +41,6 @@ Profissional de Cloud e Platform Engineering com 18 anos de experiência projeta
  
 ### 📫 Contato
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-m-o-silva-b3a9b857/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanmosilva/)
  
 📍 São Paulo, Brasil
