@@ -35,7 +35,7 @@ Engenheiro de Cloud, DevOps e SRE com 18 anos de experiência projetando, automa
 - HashiCorp Terraform Associate
 - VMware Certified Professional – VCP6-DCV
 - LPIC-3 — Virtualização e Alta Disponibilidade
-- MikroTik MTCRE
+- LPIC-3 — Mixed Environment
 - Cisco CCNA
 ---
  
