@@ -34,7 +34,7 @@ Engenheiro de Cloud, DevOps e SRE com 18 anos de experiência projetando, automa
 - AWS Certified Solutions Architect – Associate
 - HashiCorp Terraform Associate
 - VMware Certified Professional – VCP6-DCV
-- LPIC-3 — Virtualização e Alta Disponibilidade
+- LPIC-3 — Virtualization & High Availability
 - LPIC-3 — Mixed Environment
 - Cisco CCNA
 ---
