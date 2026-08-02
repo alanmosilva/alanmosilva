@@ -31,6 +31,7 @@ Engenheiro de Cloud, DevOps e SRE com 18 anos de experiência projetando, automa
  
 ### 📜 Certificações
  
+- Certified Kubernetes Administrator (CKA)
 - AWS Certified Solutions Architect – Associate
 - HashiCorp Terraform Associate
 - VMware Certified Professional – VCP6-DCV
